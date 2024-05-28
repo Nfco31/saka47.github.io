@@ -1,0 +1,86 @@
+*{padding: 0; margin: 0}
+
+body {
+	background: #FF9494; margin-top: 25px;
+}
+
+header {
+	width: 900px; background: #FF2E63; padding: 25px;
+	margin: auto; text-align: center; color: #08D9D6;
+}
+
+menu {width: 900px; background: #ACB1D6; margin: auto; 
+	    padding: 25px}
+
+menu a {
+	color: black; text-decoration: none; 
+	margin-right: 20px;
+}
+
+menu a:hover {
+	color: #F6490D; text-decoration: underline;
+}
+
+article {
+	width: 900px; background: rebeccapurple;
+	margin: auto; padding: 25px;
+	text-align: justify;
+}
+
+article img {
+	float: left;
+	width: 350px; height: 250px;
+	margin: 0 0 0 0;
+}
+
+article h1 {
+	margin: 0 0 15px 0;
+}
+
+article p {
+	margin: 0 0 25px 0;
+}
+
+article h2 {
+	margin: auto;
+	text-align: center;
+	color: lightcyan;
+}
+
+article h4 {
+	width: 800px; background: hotpink; margin: auto;
+	padding: 25px; text-align: center;
+	margin: 25px 40px 20px 30px;
+	color: floralwhite;
+}
+
+article img {
+	float: right; width: 250px; height: 180px;
+	margin: auto;
+}
+
+article h5 {
+	width: 560px; background: khaki; margin: 0 0 0 0;
+	padding: 30px;
+	color: black;
+}
+
+articla a:hover {
+	color: #EF4A4A; text-decoration: underline;
+}
+
+body h3 {
+	width: 900px; background: violet; padding: 25px;
+	margin: auto; text-align: center; color: brown;
+}
+
+footer {
+	width: 900px; background: blanchedalmond;
+	margin: auto;
+	padding: 25px;
+	text-align: center;
+}
+
+footer p {
+	color: black;
+}
